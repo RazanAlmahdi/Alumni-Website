@@ -1,0 +1,52 @@
+.grid{
+  display: grid;
+  grid-gap: 1px;
+  grid-template-columns: repeat(3, 1fr);
+}
+.block{border-color:#a7739a;
+      border-style: dashed;
+      border-radius: 1px;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+    }
+
+.name {color: #25034f;
+        font-family: Snell Roundhand, cursive;
+        font-size:2em;
+      text-align: center;
+    margin-left: 2.5em;}
+
+p {font-family: 'Courier New', monospace;
+   text-align: justify;
+ text-align: center;
+font-weight: bold;}
+
+h1 {margin: 0.5em 0.5em 0.5em 0.5em;}
+.leader{text-align: center;
+color: #1d0151;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.menu{
+  list-style-type: none;
+  margin-bottom: 1em;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1d0151;
+}
+.menuItem{
+  float:left;
+}
+.menuItem .menuLink{
+  display: block;
+  color: #8ec0f2;
+  text-align: center;
+  padding: 0.875em 1em;
+  text-decoration: none;  
+}
+.menuItem .menuLink:hover{
+  background-color: #25034f;  
+}
+.menuItem .menuLink:active{
+  background-color: #8ec0f2;  
+}
