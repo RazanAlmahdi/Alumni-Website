@@ -104,7 +104,7 @@ We have 4 tables in our database
 ## Installation
 * Clone the repository to your local machine:
 ```
-git clone https://github.com/AichaSidiya/AlumniWebsite.git
+git clone https://github.com/RazanAlmahdi/Alumni-Website.git
 ``` 
 * Install [xampp](https://www.apachefriends.org/download.html)
 * Import the alumnidatabase.sql file to [phpmyadmin](localhost/phpmyadmin/)
