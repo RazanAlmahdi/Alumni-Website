@@ -115,9 +115,9 @@ git clone https://github.com/RazanAlmahdi/Alumni-Website.git
 ## Authors
 <!-- The contributors to the project-->
 * [Aicha Sidiya](https://github.com/AichaSidiya)
-* [Hanin AlZaher](https://github.com/hanin-az)
-* [Razan AlMahdi](https://github.com/RazanAlmahdi)
-* Layal Ghiryani
+* [Hanin Alzaher](https://github.com/hanin-az)
+* [Razan Almahdi](https://github.com/RazanAlmahdi)
+* Layal Ghryani
 
 
 ## Acknowledgments
